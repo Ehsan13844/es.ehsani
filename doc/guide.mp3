@@ -1,5 +1,0 @@
-*.local
-file.
-*.mp4
-!installation.mp4
-*e.mp3
